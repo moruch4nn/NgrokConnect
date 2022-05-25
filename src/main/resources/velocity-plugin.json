@@ -1,0 +1,6 @@
+{
+  "id": "ngrokconnect",
+  "name": "Ngrok Connect",
+  "authors": ["moru3_48"],
+  "main": "dev.moru3.ngrokconnect.NgrokConnect"
+}
